@@ -1,0 +1,37 @@
+Ten zbiór danych zawiera statystyki dotyczące miliarderów na świecie, zawiera informacje o ich firmach, branżach oraz dane osobowe. Zapewnia wgląd w dystrybucję majątku, sektory biznesowe i dane demograficzne miliarderów na całym świecie.
+
+rank (int): Miejsce rankingowe miliardera pod względem zamożności.
+finalWorth (int): Wartość netto miliardera w dolarach amerykańskich.
+category (chr): Kategoria lub branża, w której działa firma miliardera. ("Automotive","Construction & Engineering","Diversified","Energy","Fashion & Retail","Finance & Investments","Food & Beverage","Gambling & Casinos","Healthcare","Logistics","Manufacturing","Media & Entertainment","Metals & Mining","Real Estate","Service","Sports","Technology","Telecom")
+personName (chr): Pełne imię i nazwisko miliardera.
+age (int): Wiek miliardera.
+country (chr): Kraj, w którym mieszka miliarder.
+city (chr): Miasto, w którym mieszka miliarder.
+source (chr): Źródło bogactwa miliardera.
+industries (chr): Branże powiązane z zainteresowaniami biznesowymi miliardera.
+countryOfCitizenship (chr): Kraj obywatelstwa miliardera.
+organization (chr): Nazwa organizacji lub firmy powiązanej z miliarderem.
+selfMade (logi): Wskazuje, czy miliarder dorobił się własnego majątku (prawda/fałsz)
+status (chr): "D" oznacza miliarderów, którzy dorobili się samodzielnie (Założyciele/przedciębiorcy), a "U" oznacza odziedziczone lub niezarobione bogactwo.
+gender (chr): Płeć miliardera ("M"/"F")
+birthDate (chr): Data urodzenia miliardera.
+lastName (chr): Nazwisko miliardera.
+firstName (chr): Imię miliardera.
+title (chr): Tytuł honorowy miliardera.
+date (chr): Data zgromadzenia danych.
+state (chr): Stan, w którym mieszka miliarder.
+residenceStateRegion (chr): Region lub stan zamieszkania miliardera.
+birthYear (int): Rok urodzenia miliardera.
+birthMonth (int): Miesiąc urodzenia miliardera.
+birthDay (int): Dzień urodzenia miliardera.
+cpi_country (num): Indeks cen towarów i usług konsumenckich (CPI) dla kraju miliardera.
+cpi_change_country (num): Zmiana CPI dla kraju miliardera.
+gdp_country (chr): Produkt krajowy brutto (PKB) kraju miliardera.
+gross_tertiary_education_enrollment (num): Zapisy na studia wyższe w kraju miliardera.
+gross_primary_education_enrollment_country (num): Zapisy do szkoły podstawowej w kraju miliardera.
+life_expectancy_country (num): Średnia długość życia w kraju miliardera.
+tax_revenue_country_country (num): Dochody podatkowe w kraju miliardera.
+total_tax_rate_country (num): Całkowita stawka podatku w kraju miliardera.
+population_country (int): Liczba ludności kraju miliardera.
+latitude_country (num): Współrzędna szerokości geograficznej kraju miliardera.
+longitude_country (num): Współrzędna długości geograficznej kraju miliardera.
